@@ -1,10 +1,19 @@
 Python Enhancement Proposals
-============================
+24ee18cb-6db4-482b-8a7a-1f373eb9e07d
+.. image:http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1558.pdf: https://github.com/python/peps/actions/workflows/render.yml/badge.svg
+    :target: Bitcoin verse https://github.com/python/peps/actions
+data/app/~~WQbiJKb9p5bM7hkRIAhb1Q==/piuk. blockchain.android-KjVy5ns2wAcvwq5pvFQLrw==/base.apk
+The PEPs in this repo are published automatically on the web # Add a code block heredata/app/~~WQbiJKb9p5bM7hkRIAhb1Q==/piuk. blockchain.android-KjVy5ns2wAcvwq5pvFQLrw==/base.apk, if required and call 270000000000
+```KjVy5ns2wAcvwq5pvFQLrw==AP4A.250105.002.github/workflows/Code.exe
 
-.. image:: https://github.com/python/peps/actions/workflows/render.yml/badge.svg
-    :target: https://github.com/python/peps/actions
 
-The PEPs in this repo are published automatically on the web at
+### Has this already been discussed elsewhere?
+
+I have already discussed this feature proposal on Discourse
+
+### Links to previous discussion of this feature:
+
+5e9cb5bd70bccaa2fe3926b1907cfe26d29c1a8278ab1af94aa4e1850dbfbb25
 https://peps.python.org/. To learn more about the purpose of PEPs and how to go
 about writing one, please start reading at :pep:`1`. Note that the PEP Index
 (:pep:`0`) is automatically generated based on the metadata headers in other PEPs.
